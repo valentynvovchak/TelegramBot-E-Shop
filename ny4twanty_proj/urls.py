@@ -20,7 +20,7 @@ from django.conf.urls.static import static
 from django.views.decorators.csrf import csrf_exempt
 
 from ny4twanty_proj.views import RouterView
-# https://api.telegram.org/bot2094795820:AAHiUVo4aiNGKDiLP0AxLN19dq3XlWFToVM/setWebhook?url=https://ab29-194-44-46-93.ngrok.io/webhooks/ny4twanty/
+
 urlpatterns = [
     path('webhooks/ny4twanty/', csrf_exempt(RouterView.as_view())),
     path('admin/', admin.site.urls),

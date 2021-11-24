@@ -1,0 +1,358 @@
+{
+    "ok": true,
+    "result": {
+        "name": "PolarBear",
+        "title": "Polar Bear",
+        "thumb": {
+            "file_id": "AAQCABMJAAM-AANjK-IJ4CcBUqDaS7c-glzJIgQ",
+            "file_unique_id": "AQADAj4AA2Mr4gk-glzJ",
+            "file_size": 6007,
+            "width": 100,
+            "height": 100
+        },
+        "is_animated": true,
+        "contains_masks": false,
+        "stickers": [
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😂",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqOKVcQQmlKOl0toXo_pqVAYAAi4QAALMR-FJ0za1V4a_fEcBAAdtAAMiBA",
+                    "file_unique_id": "AQADLhAAAsxH4Uly",
+                    "file_size": 5804,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqjilXEEJpSjpdLaF6P6alQGAAIuEAACzEfhSdM2tVeGv3xHIgQ",
+                "file_unique_id": "AgADLhAAAsxH4Uk",
+                "file_size": 34811
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😘",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqJ1r1oIoaSL6lCvteD4hyQEAAqcNAALQCNlJMftk4UIqMZcBAAdtAAMiBA",
+                    "file_unique_id": "AQADpw0AAtAI2Uly",
+                    "file_size": 5958,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqida9aCKGki-pQr7Xg-IckBAAKnDQAC0AjZSTH7ZOFCKjGXIgQ",
+                "file_unique_id": "AgADpw0AAtAI2Uk",
+                "file_size": 24708
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "👍",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqFIatBO8eiUUpqa3ErTHBiIAAh4SAAIHxNhJhrW2iWopGtsBAAdtAAMiBA",
+                    "file_unique_id": "AQADHhIAAgfE2Ely",
+                    "file_size": 5428,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhSGrQTvHolFKamtxK0xwYiAAIeEgACB8TYSYa1tolqKRrbIgQ",
+                "file_unique_id": "AgADHhIAAgfE2Ek",
+                "file_size": 37639
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😞",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqFTs3jnCvh9bbp7FQ1iadwkAAlgRAAJvN-BJbvDZpastZksBAAdtAAMiBA",
+                    "file_unique_id": "AQADWBEAAm834Ely",
+                    "file_size": 4636,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhU7N45wr4fW26exUNYmncJAAJYEQACbzfgSW7w2aWrLWZLIgQ",
+                "file_unique_id": "AgADWBEAAm834Ek",
+                "file_size": 26509
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "👋",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqKBGLBgS4sstSWfifphkqZ4AAo8SAAPJ4UmIjZxez2ox7gEAB20AAyIE",
+                    "file_unique_id": "AQADjxIAA8nhSXI",
+                    "file_size": 5964,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqigRiwYEuLLLUln4n6YZKmeAAKPEgADyeFJiI2cXs9qMe4iBA",
+                "file_unique_id": "AgADjxIAA8nhSQ",
+                "file_size": 16708
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "👏",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqOJ-9rGAlveVEuINayMqwvgAAt4SAAIm3tlJprk5f_NAAeIBAAdtAAMiBA",
+                    "file_unique_id": "AQAD3hIAAibe2Uly",
+                    "file_size": 5970,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqjifvaxgJb3lRLiDWsjKsL4AALeEgACJt7ZSaa5OX_zQAHiIgQ",
+                "file_unique_id": "AgAD3hIAAibe2Uk",
+                "file_size": 18756
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😥",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqPVpNUSCJytJfVk7RcnRHHYAArUOAALf59lJy7hmS_gWZ2cBAAdtAAMiBA",
+                    "file_unique_id": "AQADtQ4AAt_n2Uly",
+                    "file_size": 4704,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqj1aTVEgicrSX1ZO0XJ0Rx2AAK1DgAC3-fZScu4Zkv4FmdnIgQ",
+                "file_unique_id": "AgADtQ4AAt_n2Uk",
+                "file_size": 16382
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "☺️",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqLd8H6pp8kKRSVOv0FWRR28AAgERAALtsdlJaPcVcCHdzR4BAAdtAAMiBA",
+                    "file_unique_id": "AQADAREAAu2x2Uly",
+                    "file_size": 5466,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqi3fB-qafJCkUlTr9BVkUdvAAIBEQAC7bHZSWj3FXAh3c0eIgQ",
+                "file_unique_id": "AgADAREAAu2x2Uk",
+                "file_size": 23998
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😣",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqOFim9F_Mh9UvXLRzQFGSKoAAq4TAAJ60NhJxdEhwpK9hy4BAAdtAAMiBA",
+                    "file_unique_id": "AQADrhMAAnrQ2Ely",
+                    "file_size": 5568,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqjhYpvRfzIfVL1y0c0BRkiqAAKuEwACetDYScXRIcKSvYcuIgQ",
+                "file_unique_id": "AgADrhMAAnrQ2Ek",
+                "file_size": 36241
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😉",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqHgOHaPTvluMHOu7IW5hReEAAtMOAAKjItlJYmJl78_4JKMBAAdtAAMiBA",
+                    "file_unique_id": "AQAD0w4AAqMi2Uly",
+                    "file_size": 5836,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqh4Dh2j075bjBzruyFuYUXhAALTDgACoyLZSWJiZe_P-CSjIgQ",
+                "file_unique_id": "AgAD0w4AAqMi2Uk",
+                "file_size": 19295
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "👌",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqJYqtJh-7h87PwcuYfMKwVUAAvkNAAKLj9lJio6jf4ffRD8BAAdtAAMiBA",
+                    "file_unique_id": "AQAD-Q0AAouP2Uly",
+                    "file_size": 6140,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqiWKrSYfu4fOz8HLmHzCsFVAAL5DQACi4_ZSYqOo3-H30Q_IgQ",
+                "file_unique_id": "AgAD-Q0AAouP2Uk",
+                "file_size": 25566
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🙅‍♂️",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqFaf9fqSPeaMsP1md5Bi4OkAAt0QAAKhEeBJfeLZNUgmQF0BAAdtAAMiBA",
+                    "file_unique_id": "AQAD3RAAAqER4Ely",
+                    "file_size": 4308,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhWn_X6kj3mjLD9ZneQYuDpAALdEAACoRHgSX3i2TVIJkBdIgQ",
+                "file_unique_id": "AgAD3RAAAqER4Ek",
+                "file_size": 24985
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🤔",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqNmM4oKhHkshTq3oqauEWTkAAlAWAAKXleBJyXX6fNNFFc0BAAdtAAMiBA",
+                    "file_unique_id": "AQADUBYAApeV4Ely",
+                    "file_size": 5336,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqjZjOKCoR5LIU6t6KmrhFk5AAJQFgACl5XgScl1-nzTRRXNIgQ",
+                "file_unique_id": "AgADUBYAApeV4Ek",
+                "file_size": 24859
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😤",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqATy0YGojU9Q4lp1NlvkqTYAAi0RAAL1kthJCB1r0-KJSuoBAAdtAAMiBA",
+                    "file_unique_id": "AQADLREAAvWS2Ely",
+                    "file_size": 5710,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqgE8tGBqI1PUOJadTZb5Kk2AAItEQAC9ZLYSQgda9PiiUrqIgQ",
+                "file_unique_id": "AgADLREAAvWS2Ek",
+                "file_size": 26958
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "💂",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqG0OMqU7nnNpQdh3oBtIXd8AAxEAAtft4Ek9cTOt9EmgcgEAB20AAyIE",
+                    "file_unique_id": "AQAEEQAC1-3gSXI",
+                    "file_size": 5990,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhtDjKlO55zaUHYd6AbSF3fAAMRAALX7eBJPXEzrfRJoHIiBA",
+                "file_unique_id": "AgAEEQAC1-3gSQ",
+                "file_size": 23391
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🤦‍♂️",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqKYQzvBq55VPklzJfybrJMYAAnIRAAKDLshLZ2KC3EPAcWEBAAdtAAMiBA",
+                    "file_unique_id": "AQADchEAAoMuyEty",
+                    "file_size": 5450,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqimEM7waueVT5JcyX8m6yTGAAJyEQACgy7IS2digtxDwHFhIgQ",
+                "file_unique_id": "AgADchEAAoMuyEs",
+                "file_size": 24317
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🔥",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqFpakGpLeYheBPuw1F51EWgAAnwNAAJbKeBKcJmT3FVAoIkBAAdtAAMiBA",
+                    "file_unique_id": "AQADfA0AAlsp4Epy",
+                    "file_size": 5928,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhaWpBqS3mIXgT7sNRedRFoAAJ8DQACWyngSnCZk9xVQKCJIgQ",
+                "file_unique_id": "AgADfA0AAlsp4Eo",
+                "file_size": 25982
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🤷‍♂️",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqIfY3b-cTKDaXMurSMD1UlcAAjEPAALtAuFKhBZaT-fC7ZUBAAdtAAMiBA",
+                    "file_unique_id": "AQADMQ8AAu0C4Upy",
+                    "file_size": 6136,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqiH2N2_nEyg2lzLq0jA9VJXAAIxDwAC7QLhSoQWWk_nwu2VIgQ",
+                "file_unique_id": "AgADMQ8AAu0C4Uo",
+                "file_size": 21957
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "🌞",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqGkk6AiaTyxujyfutu3C8IMAAhYSAAJadeFK1XZKhvLhfhABAAdtAAMiBA",
+                    "file_unique_id": "AQADFhIAAlp14Upy",
+                    "file_size": 7724,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqhpJOgImk8sbo8n7rbtwvCDAAIWEgACWnXhStV2Soby4X4QIgQ",
+                "file_unique_id": "AgADFhIAAlp14Uo",
+                "file_size": 19208
+            },
+            {
+                "width": 512,
+                "height": 512,
+                "emoji": "😈",
+                "set_name": "PolarBear",
+                "is_animated": true,
+                "thumb": {
+                    "file_id": "AAMCAgADFQABYYgeqDQFUuaRI3cwv-oaY6kd2I8AAukNAAKECeFKLtrsz3XRFjgBAAdtAAMiBA",
+                    "file_unique_id": "AQAD6Q0AAoQJ4Upy",
+                    "file_size": 6064,
+                    "width": 128,
+                    "height": 128
+                },
+                "file_id": "CAACAgIAAxUAAWGIHqg0BVLmkSN3ML_qGmOpHdiPAALpDQAChAnhSi7a7M910RY4IgQ",
+                "file_unique_id": "AgAD6Q0AAoQJ4Uo",
+                "file_size": 26312
+            }
+        ]
+    }
+}

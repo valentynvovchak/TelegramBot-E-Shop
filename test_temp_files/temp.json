@@ -1,0 +1,104 @@
+{
+    "update_id": 448974058,
+    "callback_query": {
+        "id": "3361990408389003308",
+        "from": {
+            "id": 782774390,
+            "is_bot": false,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "language_code": "uk"
+        },
+        "message": {
+            "message_id": 788,
+            "from": {
+                "id": 2094795820,
+                "is_bot": true,
+                "first_name": "NY4TWANTY",
+                "username": "NY4TWANTYbot"
+            },
+            "chat": {
+                "id": 782774390,
+                "first_name": "Valya",
+                "username": "Valiunya",
+                "type": "private"
+            },
+            "date": 1637506780,
+            "photo": [
+                {
+                    "file_id": "AgACAgIAAxkDAAIDFGGaXtx7rGXiZkYYls1TQ84sv2phAAIGuDEbWNyYSCmZfCEkXRdnAQADAgADcwADIgQ",
+                    "file_unique_id": "AQADBrgxG1jcmEh4",
+                    "file_size": 805,
+                    "width": 90,
+                    "height": 60
+                },
+                {
+                    "file_id": "AgACAgIAAxkDAAIDFGGaXtx7rGXiZkYYls1TQ84sv2phAAIGuDEbWNyYSCmZfCEkXRdnAQADAgADbQADIgQ",
+                    "file_unique_id": "AQADBrgxG1jcmEhy",
+                    "file_size": 7460,
+                    "width": 320,
+                    "height": 213
+                },
+                {
+                    "file_id": "AgACAgIAAxkDAAIDFGGaXtx7rGXiZkYYls1TQ84sv2phAAIGuDEbWNyYSCmZfCEkXRdnAQADAgADeAADIgQ",
+                    "file_unique_id": "AQADBrgxG1jcmEh9",
+                    "file_size": 32204,
+                    "width": 800,
+                    "height": 533
+                },
+                {
+                    "file_id": "AgACAgIAAxkDAAIDFGGaXtx7rGXiZkYYls1TQ84sv2phAAIGuDEbWNyYSCmZfCEkXRdnAQADAgADeQADIgQ",
+                    "file_unique_id": "AQADBrgxG1jcmEh-",
+                    "file_size": 43656,
+                    "width": 1000,
+                    "height": 666
+                }
+            ],
+            "caption": "🔶Категорія:  eat\n 🔶  Підкатегорія:  trousers",
+            "caption_entities": [
+                {
+                    "offset": 14,
+                    "length": 3,
+                    "type": "italic"
+                },
+                {
+                    "offset": 38,
+                    "length": 8,
+                    "type": "italic"
+                }
+            ],
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "$16.5 Класичні штани",
+                            "callback_data": "product_eat_trousers_e00000001"
+                        },
+                        {
+                            "text": "$20 Куртка La-Moda",
+                            "callback_data": "product_eat_trousers_e00000002"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "$12 Футболка з V-вирізом",
+                            "callback_data": "product_eat_trousers_e00000003"
+                        },
+                        {
+                            "text": "$1.59 Футболка Smailik",
+                            "callback_data": "product_eat_trousers_e00000004"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "⬅️ Назад",
+                            "callback_data": "back_to_category_eat_trousers"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "-7550845106401489634",
+        "data": "product_eat_trousers_e00000002"
+    }
+}

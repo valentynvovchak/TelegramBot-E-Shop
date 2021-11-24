@@ -1,0 +1,46 @@
+{
+    "update_id": 448973694,
+    "callback_query": {
+        "id": "3361990405722716612",
+        "from": {
+            "id": 782774390,
+            "is_bot": false,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "language_code": "uk"
+        },
+        "message": {
+            "message_id": 384,
+            "from": {
+                "id": 2094795820,
+                "is_bot": true,
+                "first_name": "NY4TWANTY",
+                "username": "NY4TWANTYbot"
+            },
+            "chat": {
+                "id": 782774390,
+                "first_name": "Valya",
+                "username": "Valiunya",
+                "type": "private"
+            },
+            "date": 1636368136,
+            "text": "Точно?",
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "Так",
+                            "callback_data": "yes"
+                        },
+                        {
+                            "text": "Ні",
+                            "callback_data": "no"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "-7550845106401489634",
+        "data": "no"
+    }
+}

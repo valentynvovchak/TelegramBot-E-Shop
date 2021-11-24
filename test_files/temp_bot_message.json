@@ -1,0 +1,85 @@
+{
+    "ok": true,
+    "result": {
+        "message_id": 118,
+        "from": {
+            "id": 2094795820,
+            "is_bot": true,
+            "first_name": "NY4TWANTY",
+            "username": "NY4TWANTYbot"
+        },
+        "chat": {
+            "id": 782774390,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "type": "private"
+        },
+        "date": 1636303743,
+        "reply_to_message": {
+            "message_id": 116,
+            "from": {
+                "id": 782774390,
+                "is_bot": false,
+                "first_name": "Valya",
+                "username": "Valiunya",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 782774390,
+                "first_name": "Valya",
+                "username": "Valiunya",
+                "type": "private"
+            },
+            "date": 1636303742,
+            "text": "/"
+        },
+        "photo": [
+            {
+                "file_id": "AgACAgIAAxkDAAN2YYgDf9NEfbzeTS1F5UkNDCHfEaEAAtO2MRsUr0FID72SFI-HDLABAAMCAANzAAMiBA",
+                "file_unique_id": "AQAD07YxGxSvQUh4",
+                "file_size": 1252,
+                "width": 67,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgIAAxkDAAN2YYgDf9NEfbzeTS1F5UkNDCHfEaEAAtO2MRsUr0FID72SFI-HDLABAAMCAANtAAMiBA",
+                "file_unique_id": "AQAD07YxGxSvQUhy",
+                "file_size": 15670,
+                "width": 240,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgIAAxkDAAN2YYgDf9NEfbzeTS1F5UkNDCHfEaEAAtO2MRsUr0FID72SFI-HDLABAAMCAAN4AAMiBA",
+                "file_unique_id": "AQAD07YxGxSvQUh9",
+                "file_size": 64627,
+                "width": 600,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgIAAxkDAAN2YYgDf9NEfbzeTS1F5UkNDCHfEaEAAtO2MRsUr0FID72SFI-HDLABAAMCAAN5AAMiBA",
+                "file_unique_id": "AQAD07YxGxSvQUh-",
+                "file_size": 94573,
+                "width": 960,
+                "height": 1280
+            }
+        ],
+        "caption": "Лови Аню",
+        "caption_entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "italic"
+            },
+            {
+                "offset": 5,
+                "length": 3,
+                "type": "bold"
+            },
+            {
+                "offset": 5,
+                "length": 3,
+                "type": "italic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "update_id": 448973556,
+    "message": {
+        "message_id": 94,
+        "from": {
+            "id": 782774390,
+            "is_bot": false,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 782774390,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "type": "private"
+        },
+        "date": 1636300768,
+        "photo": [
+            {
+                "file_id": "AgACAgIAAxkBAANeYYf34CII_FaDjEOZRN1VJszQgxoAAse2MRsUr0FITJ7YQQQwIasBAAMCAANzAAMiBA",
+                "file_unique_id": "AQADx7YxGxSvQUh4",
+                "file_size": 1340,
+                "width": 43,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgIAAxkBAANeYYf34CII_FaDjEOZRN1VJszQgxoAAse2MRsUr0FITJ7YQQQwIasBAAMCAANtAAMiBA",
+                "file_unique_id": "AQADx7YxGxSvQUhy",
+                "file_size": 18710,
+                "width": 152,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgIAAxkBAANeYYf34CII_FaDjEOZRN1VJszQgxoAAse2MRsUr0FITJ7YQQQwIasBAAMCAAN4AAMiBA",
+                "file_unique_id": "AQADx7YxGxSvQUh9",
+                "file_size": 75509,
+                "width": 379,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgIAAxkBAANeYYf34CII_FaDjEOZRN1VJszQgxoAAse2MRsUr0FITJ7YQQQwIasBAAMCAAN5AAMiBA",
+                "file_unique_id": "AQADx7YxGxSvQUh-",
+                "file_size": 126239,
+                "width": 606,
+                "height": 1280
+            }
+        ]
+    }
+}

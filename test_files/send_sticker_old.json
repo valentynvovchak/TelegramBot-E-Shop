@@ -1,0 +1,36 @@
+{
+    "ok": true,
+    "result": {
+        "message_id": 378,
+        "from": {
+            "id": 2094795820,
+            "is_bot": true,
+            "first_name": "NY4TWANTY",
+            "username": "NY4TWANTYbot"
+        },
+        "chat": {
+            "id": 782774390,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "type": "private"
+        },
+        "date": 1636366768,
+        "sticker": {
+            "width": 512,
+            "height": 512,
+            "emoji": "😉",
+            "set_name": "PolarBear",
+            "is_animated": true,
+            "thumb": {
+                "file_id": "AAMCAgADGQMAAgF6YYj5sOD4su5Rv1oLIPwPgzcZOSIAAtMOAAKjItlJYmJl78_4JKMBAAdtAAMiBA",
+                "file_unique_id": "AQAD0w4AAqMi2Uly",
+                "file_size": 5836,
+                "width": 128,
+                "height": 128
+            },
+            "file_id": "CAACAgIAAxkDAAIBemGI-bDg-LLuUb9aCyD8D4M3GTkiAALTDgACoyLZSWJiZe_P-CSjIgQ",
+            "file_unique_id": "AgAD0w4AAqMi2Uk",
+            "file_size": 19295
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ok": true,
+    "result": {
+        "message_id": 377,
+        "from": {
+            "id": 2094795820,
+            "is_bot": true,
+            "first_name": "NY4TWANTY",
+            "username": "NY4TWANTYbot"
+        },
+        "chat": {
+            "id": 782774390,
+            "first_name": "Valya",
+            "username": "Valiunya",
+            "type": "private"
+        },
+        "date": 1636366767,
+        "text": ":)"
+    }
+}

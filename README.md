@@ -6,6 +6,9 @@ I'd already had an understanding of working with third-party API, request/respon
 Besides, I've used a FONDY (payment system) API to make payment splits on religionpeace.live website.
 
 ![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/1_.jpg?raw=true)
+
 ![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/2_.jpg?raw=true)
-![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/telebot.jpg?raw=true)
+
+![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/telebot.png?raw=true)
+
 ![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/3_.jpg?raw=true)

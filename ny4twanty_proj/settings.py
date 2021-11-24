@@ -37,7 +37,7 @@ else:
 
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS_TGBOT') or []
-NY4TWANTY_BOT_TOKEN = "2094795820:AAHiUVo4aiNGKDiLP0AxLN19dq3XlWFToVM"
+NY4TWANTY_BOT_TOKEN = "invalid"  # for security reasons
 TELEGRAM_URL = "https://api.telegram.org/bot"
 URL = f"{TELEGRAM_URL}{NY4TWANTY_BOT_TOKEN}/"
 
@@ -157,24 +157,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Чтобы использовать порт 465, вам нужно вызвать smtplib.SMTP_SSL().
 # В настоящее время он вызывает smtplib.SMTP() .. , поэтому измените свой PORT с 465 на 587 .
-
-# ----------------------------------------------------
-# ADMIN_EMAIL = 'valiunyavovchak@gmail.com'
-# EMAIL_HOST = os.environ.get("EMAIL_HOST")
-# EMAIL_HOST_USER = os.environ.get("EMAIL_HOST_USER")
-# EMAIL_HOST_PASSWORD = os.environ.get("EMAIL_HOST_PASSWORD")
-# EMAIL_PORT = os.environ.get("EMAIL_PORT")
-#
-# if os.environ.get('EMAIL_USE_TLS') == '0':
-#     EMAIL_USE_TLS = False
-# else:
-#     EMAIL_USE_TLS = bool(os.environ.get('EMAIL_USE_TLS'))
-#
-# if os.environ.get('EMAIL_USE_SSL') == '0':
-#     EMAIL_USE_SSL = False
-# else:
-#     EMAIL_USE_SSL = bool(os.environ.get('EMAIL_USE_SSL'))
-# ----------------------------------------------------
 
 # from seniorchik
 

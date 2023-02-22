@@ -3,6 +3,4 @@ I managed to attach the Django Framework to my Telegram Bot and set a webhook. I
 
 I'd already had an understanding of working with third-party API, request/response cycle. But with this project I got to know how to work with Telegram Api using Django.
 
-![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/1_.jpg?raw=true)
-
 ![view](https://github.com/valentynvovchak/TelegramBot-E-Shop/blob/main/2_.jpg?raw=true)
